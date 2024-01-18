@@ -1,4 +1,4 @@
-•	Developed a serverless AWS application for secure text message encryption and decryption using React, AWS Lambda functions, and Step Functions for structured workflow.
+•	Developed a serverless AWS application for secure text message encryption and decryption using Nodejs, AWS Lambda functions, and Step Functions for structured workflow.
 
 •	Leveraged DynamoDB for efficient storage of messages in a secure manner.
 
